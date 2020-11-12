@@ -1,0 +1,32 @@
+.nav_buttons {
+    display: inline-block;
+    padding: 15px;
+    background-color: lightblue ;
+}
+
+#nav {
+    background-color: rosybrown;
+}
+
+#left { 
+    height: 1000px;
+    float: left;
+    width: 29%;
+    background-color: blue;
+}
+
+#right {
+    height: 1000px;
+    float: left;
+    width: 71%; 
+    background-color: bisque; 
+}
+
+#top { 
+    background-color: skyblue;
+    height: 250px;
+}
+#bottom {
+    background-color: cornflowerblue;
+    height: 750px;
+}
